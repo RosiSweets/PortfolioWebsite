@@ -94,6 +94,7 @@ font-size:18px;
     margin-right: auto;
     display: block;
     padding-top: 20%;
+    object-fit:cover;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -109,4 +110,5 @@ font-size:18px;
 .centered img {
   width: 150px;
   border-radius: 40%;
+  
 } 
